@@ -1,4 +1,3 @@
-# ci-cd-pipeline-devops
 # 🚀 CI/CD Pipeline using GitHub Actions, Jenkins & Docker
 
 ## 📌 Overview
